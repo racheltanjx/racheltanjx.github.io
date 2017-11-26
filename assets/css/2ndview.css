@@ -1,0 +1,42 @@
+.day1 {
+	font-family: 'Shadows Into Light', cursive;
+	position: absolute;
+	margin-left: 300 px;
+	margin-right: 5 px;
+}
+
+.title2{
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: 30px;
+	color: black;
+	text-align: left;
+}
+
+.picture2{
+	position: relative;
+	margin-left: 650px;
+	padding-left: 50px;
+}
+
+.next{ 
+	font-family: 'Dawning of a New Day', cursive;
+	position: relative;
+	float: right;
+	font-size: 30px;
+}
+
+.back{ 
+	font-family: 'Dawning of a New Day', cursive;
+	position: relative;
+	float: left;
+	font-size: 30px;
+}
+
+.backbag{
+
+
+}
+
+.forwardbag{
+
+}

@@ -1,0 +1,35 @@
+.title {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+
+.picture{
+	top: 50px;
+	text-align: center;
+}
+
+.intro {
+	font-family: 'Dawning of a New Day', cursive;
+	font-size: 25px;
+	color: black;
+	text-align: center;
+
+}
+
+.outro {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+}
+
+.journalbutton{
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+}
+.photobutton{
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+}
